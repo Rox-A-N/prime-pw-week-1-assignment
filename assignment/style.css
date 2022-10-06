@@ -9,3 +9,12 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px 24px;
+}
